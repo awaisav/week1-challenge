@@ -10,8 +10,29 @@ and the title of the webiste
 <h2>Body</h2>
 The body is divided into different sections.
 <ul>
-<li>Header</li>
-<li>Main section</li>
-<li>Sidebar</li>
-<li>Footer</li>
+  <li>Header</li>
+  <li>Main section</li>
+  <li>Sidebar</li>
+  <li>Footer</li>
 </ul>
+
+<h3>Header</h3>
+The header contains the following
+<ul>
+  <li>Logo</li>
+  <li>Menu</li>
+</ul>
+
+<h3>Main Section</h3>
+The main section contains all the articles
+
+<h3>Sidebar</h3>
+The sidebar contains othher important information such as
+  <ul
+   <li>Lead Generation</li>
+   <li>Brand Awareness</li>
+   <li>Cost Management</li>
+  </ul>
+  
+<h3>Footer</h3>
+the footer contains the copyrights information
