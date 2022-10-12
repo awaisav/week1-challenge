@@ -27,8 +27,8 @@ The header contains the following
 The main section contains all the articles
 
 <h3>Sidebar</h3>
-The sidebar contains othher important information such as
-  <ul
+The sidebar contains other important information such as
+  <ul>
    <li>Lead Generation</li>
    <li>Brand Awareness</li>
    <li>Cost Management</li>
